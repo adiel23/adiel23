@@ -14,10 +14,10 @@ This is a simple but functional blog web application. You can create your accoun
 
 ## 🧠 Currently Learning
 
-I am currently learning about Bitcoin because it's an interesting technology for me and I want to be able to help more people with my projects.
+Right now I am focusing on mastering my backend skills through the creation of increasingly callenging web application projects. I am also learning about Bitcoin because I think it's an amazing technology that can help many people.
 
 ## 🤝📧 How to reach me
 
-Email: arthureli.dev@gmail.com
-LinkedIn: https://www.linkedin.com/in/adiel-elias-992b5538a/
-Portfolio: 
+- Email: arthureli.dev@gmail.com
+- LinkedIn: https://www.linkedin.com/in/adiel-elias-992b5538a/
+- Portfolio: 
