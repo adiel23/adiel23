@@ -15,7 +15,7 @@ I'm a web developer from El Salvador passionate about building web applications 
 ## What I’m Focusing On
 - Writing clean and modular code
 - Improving backend architecture (MVC + Services)
-- Learning modern frontend with React
+- Learning TypeScript and NestJS. You can see this project I'm working on: https://github.com/xsismadn3ss/bmd-backend
 
 ## 🤝📧 Contact
 - **Email:** arthureli.dev@gmail.com
