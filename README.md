@@ -1,23 +1,22 @@
-## Hi There 👋.
+# Hi, I'm Arturo 👋
 
-My name is Arthur and I am a salvadorean passionate for web development. I currently work with html, css, javaScript, Nodejs and Mysql for developing full stack web applications.
+I'm a web developer from El Salvador passionate about building web applications and learning modern technologies. I enjoy creating clean, efficient, and scalable systems.
 
-## ✏️ About My Projects 
+## 🧑🏽 About Me
+- 💻 Full‑stack developer in training (Express, MySQL, HTML, CSS, JS).
+- 🎓 Highschool graduate, starting University Software Development next year.
+- 🌎 Bilingual: Spanish (native) & English (advanced).
+- 🚀 Interested in web development and building real products.
 
-### 🏫 Behavior tracking system:
+## ⭐ Achievements
 
-This is a project I created for my highschool that helps teachers and school administration to register and consult information about student's violation of personal presentation standards. You can see the project in more detail here: https://github.com/adiel23/Cumple
+- **🏆 Winner of CUBO+ Hackathon** – Built a project evaluated by top industry leaders
 
-### 📝 Blog.
+## What I’m Focusing On
+- Writing clean and modular code
+- Improving backend architecture (MVC + Services)
+- Learning modern frontend with React
 
-This is a simple but functional blog web application. You can create your account and start posting. You can also see other people's posts and interact with them by commenting and liking them. You can also follow the author to be notified of new posts. You can see the project in more detail here: https://github.com/adiel23/node-js-blog-proyect
-
-## 🧠 Currently Learning
-
-Right now I am focusing on mastering my backend skills through the creation of increasingly callenging web application projects. I am also learning about Bitcoin because I think it's an amazing technology that can help many people.
-
-## 🤝📧 How to reach me
-
-- Email: arthureli.dev@gmail.com
-- LinkedIn: https://www.linkedin.com/in/adiel-elias-992b5538a/
-- Portfolio: 
+## 🤝📧 Contact
+- **Email:** arthureli.dev@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/adiel-elias-992b5538a/
