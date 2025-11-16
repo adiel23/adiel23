@@ -10,7 +10,7 @@ I'm a web developer from El Salvador passionate about building web applications 
 
 ## ⭐ Achievements
 
-- **🏆 Winner of CUBO+ Hackathon** – Built a project evaluated by top industry leaders
+- **🏆 Winner of CUBO+ Hackathon** – Built a project evaluated by top industry leaders. You can see the project here: https://github.com/Fabio-Menjivar/posBTC-NFC
 
 ## What I’m Focusing On
 - Writing clean and modular code
